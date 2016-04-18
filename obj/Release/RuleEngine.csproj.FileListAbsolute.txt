@@ -1,0 +1,17 @@
+D:\MS Finance\TFS Assignment New\TFSAssignment\RuleEngine\bin\Release\RuleEngine.dll
+D:\MS Finance\TFS Assignment New\TFSAssignment\RuleEngine\bin\Release\RuleEngine.pdb
+D:\MS Finance\TFS Assignment New\TFSAssignment\RuleEngine\bin\Release\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+D:\MS Finance\TFS Assignment New\TFSAssignment\RuleEngine\bin\Release\Microsoft.WITDataStore.dll
+D:\MS Finance\TFS Assignment New\TFSAssignment\RuleEngine\obj\Release\RuleEngine.dll
+D:\MS Finance\TFS Assignment New\TFSAssignment\RuleEngine\obj\Release\RuleEngine.pdb
+E:\Projects\MSFinance\TFSAssignment\RuleEngine\bin\Release\RuleEngine.dll
+E:\Projects\MSFinance\TFSAssignment\RuleEngine\bin\Release\RuleEngine.pdb
+E:\Projects\MSFinance\TFSAssignment\RuleEngine\bin\Release\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+E:\Projects\MSFinance\TFSAssignment\RuleEngine\bin\Release\Newtonsoft.Json.dll
+E:\Projects\MSFinance\TFSAssignment\RuleEngine\bin\Release\System.Net.Http.Formatting.dll
+E:\Projects\MSFinance\TFSAssignment\RuleEngine\bin\Release\System.Web.Http.dll
+E:\Projects\MSFinance\TFSAssignment\RuleEngine\bin\Release\System.Net.Http.Formatting.xml
+E:\Projects\MSFinance\TFSAssignment\RuleEngine\bin\Release\System.Web.Http.xml
+E:\Projects\MSFinance\TFSAssignment\RuleEngine\bin\Release\Microsoft.WITDataStore.dll
+E:\Projects\MSFinance\TFSAssignment\RuleEngine\obj\Release\RuleEngine.dll
+E:\Projects\MSFinance\TFSAssignment\RuleEngine\obj\Release\RuleEngine.pdb

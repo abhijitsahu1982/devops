@@ -1,0 +1,28 @@
+D:\MS Finance\TFS Assignment New\TFSAssignment\RuleEngine\bin\Debug\RuleEngine.dll
+D:\MS Finance\TFS Assignment New\TFSAssignment\RuleEngine\bin\Debug\RuleEngine.pdb
+D:\MS Finance\TFS Assignment New\TFSAssignment\RuleEngine\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+D:\MS Finance\TFS Assignment New\TFSAssignment\RuleEngine\bin\Debug\Microsoft.WITDataStore.dll
+D:\MS Finance\TFS Assignment New\TFSAssignment\RuleEngine\obj\Debug\RuleEngine.dll
+D:\MS Finance\TFS Assignment New\TFSAssignment\RuleEngine\obj\Debug\RuleEngine.pdb
+C:\Microsoft\RuleEngine\RuleEngine\bin\Debug\RuleEngine.dll
+C:\Microsoft\RuleEngine\RuleEngine\bin\Debug\RuleEngine.pdb
+C:\Microsoft\RuleEngine\RuleEngine\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+C:\Microsoft\RuleEngine\RuleEngine\bin\Debug\Newtonsoft.Json.dll
+C:\Microsoft\RuleEngine\RuleEngine\bin\Debug\System.Net.Http.Formatting.dll
+C:\Microsoft\RuleEngine\RuleEngine\bin\Debug\System.Web.Http.dll
+C:\Microsoft\RuleEngine\RuleEngine\bin\Debug\System.Net.Http.Formatting.xml
+C:\Microsoft\RuleEngine\RuleEngine\bin\Debug\System.Web.Http.xml
+C:\Microsoft\RuleEngine\RuleEngine\bin\Debug\Microsoft.WITDataStore.dll
+C:\Microsoft\RuleEngine\RuleEngine\obj\Debug\RuleEngine.dll
+C:\Microsoft\RuleEngine\RuleEngine\obj\Debug\RuleEngine.pdb
+C:\Users\abhijit.sahu\Desktop\Microsoft\TFSAssignment\TFSAssignment\TFSAssignment\RuleEngine\bin\Debug\RuleEngine.dll
+C:\Users\abhijit.sahu\Desktop\Microsoft\TFSAssignment\TFSAssignment\TFSAssignment\RuleEngine\bin\Debug\RuleEngine.pdb
+C:\Users\abhijit.sahu\Desktop\Microsoft\TFSAssignment\TFSAssignment\TFSAssignment\RuleEngine\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+C:\Users\abhijit.sahu\Desktop\Microsoft\TFSAssignment\TFSAssignment\TFSAssignment\RuleEngine\bin\Debug\Newtonsoft.Json.dll
+C:\Users\abhijit.sahu\Desktop\Microsoft\TFSAssignment\TFSAssignment\TFSAssignment\RuleEngine\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\abhijit.sahu\Desktop\Microsoft\TFSAssignment\TFSAssignment\TFSAssignment\RuleEngine\bin\Debug\System.Web.Http.dll
+C:\Users\abhijit.sahu\Desktop\Microsoft\TFSAssignment\TFSAssignment\TFSAssignment\RuleEngine\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\abhijit.sahu\Desktop\Microsoft\TFSAssignment\TFSAssignment\TFSAssignment\RuleEngine\bin\Debug\System.Web.Http.xml
+C:\Users\abhijit.sahu\Desktop\Microsoft\TFSAssignment\TFSAssignment\TFSAssignment\RuleEngine\bin\Debug\Microsoft.WITDataStore.dll
+C:\Users\abhijit.sahu\Desktop\Microsoft\TFSAssignment\TFSAssignment\TFSAssignment\RuleEngine\obj\Debug\RuleEngine.dll
+C:\Users\abhijit.sahu\Desktop\Microsoft\TFSAssignment\TFSAssignment\TFSAssignment\RuleEngine\obj\Debug\RuleEngine.pdb
