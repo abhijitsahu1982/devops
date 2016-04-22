@@ -13,7 +13,7 @@ namespace RuleEngine
 {
     public class RuleEngineCommon
     {
-        Dictionary<string, IRule> Rules = new Dictionary<string, IRule>();
+        
 
 
         public void AddRule(string RuleName, IRule rule)
